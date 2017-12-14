@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/circle.h
+sphere.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/sphere.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/cube.h
+square.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/square.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/cuboid.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/main.cc
+iostream
+-
+rectangle.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/rectangle.h
+square.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/square.h
+sphere.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/sphere.h
+circle.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/circle.h
+cuboid.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/cuboid.h
+cube.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/cube.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/rectangle.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/sphere.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/square.h
+rectangle.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/rectangle.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü6/errorvalue.cc
+cmath
+-
+iostream
+-
+errorvalue.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü6/errorvalue.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü6/errorvalue.h
+
+/home/sebastian/Schreibtisch/IPI/Übung/Ü6/main_errorvalue.cc
+iostream
+-
+cmath
+-
+errorvalue.h
+/home/sebastian/Schreibtisch/IPI/Übung/Ü6/errorvalue.h
+

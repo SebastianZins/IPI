@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeometric_objects.a  CMakeFiles/geometric_objects.dir/rectangle.cc.o CMakeFiles/geometric_objects.dir/square.cc.o CMakeFiles/geometric_objects.dir/sphere.cc.o CMakeFiles/geometric_objects.dir/circle.cc.o CMakeFiles/geometric_objects.dir/cuboid.cc.o CMakeFiles/geometric_objects.dir/cube.cc.o
+/usr/bin/ranlib libgeometric_objects.a

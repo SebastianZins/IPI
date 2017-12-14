@@ -1,0 +1,23 @@
+#Ordner
+/Material zu git-20171212
+/Vorlesung
+#Build Verzeichnis
+/build
+#PDF
+*.pdf
+#zip
+*.zip
+#einzelne Dateien
+einmaleins
+ggt
+reihenberechnung
+array_sort
+geometric_objects
+quadratic_equations
+root
+pointer
+recursive_fcns
+structure
+geometric_objects
+points
+rooms

@@ -1,0 +1,4 @@
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/build/CMakeFiles/edit_cache.dir
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/build/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/build/CMakeFiles/main.dir
+/home/sebastian/Schreibtisch/IPI/Übung/Ü7/build/CMakeFiles/geometric_objects.dir
